@@ -1,0 +1,133 @@
+
+body{
+background-image: url(galery/bgv.jpg);
+padding: 0 auto;
+}
+#container{
+background-color: #ff0000;
+border: solid 1px #000;
+width: 820px;
+margin: 0 auto;
+}
+
+#header {
+background-color: #333;
+height: 120px;
+font-family: algerian;
+border: solid 1px #fff;
+color: #ddd;
+background-image:url(galery/pohon.png);
+}
+#header h1 {
+font-family: lucida calligraphy;
+margin: -5 0 0 30; 
+color: #ff22cc;
+font-size: 50;
+}
+#header p {
+font-family: lucida calligraphy;
+margin: 14 0 0 30; 
+font-size: 20;
+color: #00ffff;
+}
+#topmenu {
+margin: 0 0 0 0;
+width: 850px;
+height: 70px;
+margin: 0 0 5 0;
+
+}
+#topmenu li {
+border: solid 7px #ddff22;
+list-style: none;
+background-color: #aa22dd;
+width: 170;
+height: 40;
+float: left; 
+margin-left: 5;
+padding: 10 0 -10 -10;
+font-size: 30;
+
+}
+#topmenu a{
+text-decoration: none;
+border-left: solid 1px #000;
+padding: 0 0 0 40;
+margin: 10 0 10 0;
+color: #fff;
+}
+#topmenu li:hover {
+background-color: #00ff00;
+margin-top:20;
+}
+#content{
+width: 649px; 
+height:720px;
+float: left;
+margin: -15 0 0 50;
+
+}
+#content h1{
+font-family: informal roman;
+font-size: 50px;
+color: #00ff00;
+border-bottom: solid 3px #ffff00;
+}
+#content img{
+margin: 30 15 0 10;
+border: solid 1px #222;
+padding: 7px;
+float: ;
+}
+#content p{
+text-indent: 50;
+margin: 0 0 0 5;
+font-size: 17;
+color: #fff;
+}
+
+#content h3{
+border: solid 4px #0000ff;
+width: 395;
+margin: 5 0 10 300;
+background-color: #ddffcc;
+padding: 0 0 0 10;
+}
+
+
+#footer{
+background-image:url(../hijau.png);
+background: #00ff00;
+height: 120px;
+clear: left;
+padding: 10 0 5 10;
+border-left: solid 20px #00ffee;
+}
+#footer h3{
+font-size: 17px;
+margin: -80 0 0 50;
+font-family: lucida calligraphy;
+
+}
+#footer a{
+font-size: 20px;
+margin: -30 0 20 400;
+text-decoration: none;
+}
+#footer p{
+font-size: 17px;
+margin: 10 0 5 150;
+font-family: lucida calligraphy;
+color: #ff00ff;
+}
+#footer img{
+margin: 0 0 0 190;
+}
+
+#footer a:hover{
+color: #ff00ff;
+}
+
+.gbr {
+float: left;
+}
